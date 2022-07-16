@@ -26,7 +26,7 @@
   
   <hr>
  
- - 🔭 No momento estou trabalhando [Clone Disney+](https://github.com/eduardaisabele/disneyplus-clone)
+ <p> 🔭 No momento estou trabalhando em <a href="https://github.com/eduardaisabele/disneyplus-clone">Clone Disney+</a></p>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
