@@ -1,5 +1,6 @@
 ## Olá, me chamo Eduarda ! 
 ### Bem vindo ao meu perfil GitHub 👋
+<p> 🔭 No momento estou trabalhando em <a href="https://github.com/eduardaisabele/disneyplus-clone">Clone Disney+</a></p>
 
 <div align="center">
 <a href="https://github.com/eduardaisabele">
@@ -24,9 +25,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
   </div>
   
-  <hr>
- 
- <p> 🔭 No momento estou trabalhando em <a href="https://github.com/eduardaisabele/disneyplus-clone">Clone Disney+</a></p>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
