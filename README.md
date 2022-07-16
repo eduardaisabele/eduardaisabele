@@ -24,8 +24,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
   </div>
   
+  <hr>
  
- 
+ - 🔭 No momento estou trabalhando [Clone Disney+](https://github.com/eduardaisabele/disneyplus-clone)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
