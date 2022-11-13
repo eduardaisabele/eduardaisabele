@@ -1,6 +1,6 @@
 ## Olá, me chamo Eduarda ! 
 ### Bem vindo ao meu perfil GitHub 👋
-<p> 🔭 No momento estou trabalhando em <a href="https://github.com/eduardaisabele/disneyplus-clone">Clone Disney+</a></p>
+<p> 🔭 No momento estou avançado os estudos em java, <a href="https://github.com/eduardaisabele/estudos_em_java">aqui</a> você encontra um repositorio com alguns resumos que ando fazendo.</p>
 
 <div align="center">
 <a href="https://github.com/eduardaisabele">
@@ -15,14 +15,14 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   </div>
   
 ### Estou aprendendo 
   <div style="display: inline_block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   </div>
   
 
