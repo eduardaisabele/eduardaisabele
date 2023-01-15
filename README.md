@@ -2,11 +2,12 @@
 ### Bem vindo ao meu perfil GitHub 👋
 <p> 🔭 No momento estou avançado os estudos em java, <a href="https://github.com/eduardaisabele/estudos_em_java">aqui</a> você encontra um repositorio com alguns resumos que ando fazendo.</p>
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/eduardaisabele">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaisabele&layout=compact&langs_count=7&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaisabele&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
+-->
 
 ### Ferramentas e Tecnologias
   <div style="display: inline_block">
