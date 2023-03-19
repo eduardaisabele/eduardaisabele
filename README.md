@@ -1,4 +1,4 @@
-## Olá, me chamo Eduarda ! 
+## Hi there, I'm Eduarda ! 
 ### Bem vindo ao meu perfil GitHub 👋
 <p> 🔭 No momento estou avançado os estudos em java, <a href="https://github.com/eduardaisabele/estudos_em_java">aqui</a> você encontra um repositorio com alguns resumos que ando fazendo.</p>
 
