@@ -1,29 +1,26 @@
-## Hi there, I'm Eduarda ! 
-### Bem vindo ao meu perfil GitHub 👋
-<p> 🔭 No momento estou avançado os estudos em java, <a href="https://github.com/eduardaisabele/estudos_em_java">aqui</a> você encontra um repositorio com alguns resumos que ando fazendo.</p>
+## Hi I'm Eduarda :D 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardaisabele)](https://github.com/eduardasiabele)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-isabelle/)](https://www.linkedin.com/in/eduarda-isabelle/)
+
+- 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas pela Uniasselvi;
+- 🌱 Estudando java e programação orientada a objetos;
 
 <div align="center">
 <a href="https://github.com/eduardaisabele">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaisabele&layout=compact&langs_count=7&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaisabele&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
-
-### Ferramentas e Tecnologias
-  <div style="display: inline_block">
-    
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  </div>
   
-### Estou aprendendo 
-  <div style="display: inline_block">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  </div>
+##
+  
+### 🖥️ Tecnologias e Ferramentas: 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
   
 
 <!--
