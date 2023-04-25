@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-isabelle/)](https://www.linkedin.com/in/eduarda-isabelle/)
 
 - 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas pela Uniasselvi;
-- 🌱 Estudando java e programação orientada a objetos;
+- 🌱 Estudando ReactJs;
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 <div align="center">
