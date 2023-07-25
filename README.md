@@ -1,4 +1,4 @@
-## Hi I'm Eduarda :D 
+## Olá, me chamo Eduarda! :D 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardaisabele)](https://github.com/eduardasiabele)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-isabelle/)](https://www.linkedin.com/in/eduarda-isabelle/)
